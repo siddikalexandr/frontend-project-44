@@ -1,1 +1,2 @@
 # frontend-project-44
+[![Maintainability](https://api.codeclimate.com/v1/badges/2b84e716025d35f1e39b/maintainability)](https://codeclimate.com/github/siddikalexandr/frontend-project-44/maintainability)
